@@ -17,23 +17,3 @@
   min-width: 110px;
   height: 186px;
 }
-
-/* .wrap {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  align-items: center;
-  font-size: 28px;
-  letter-spacing: 0.04em;
-}
-
-.online {
-  font-size: 20px;
-  color: green;
-}
-
-.offline {
-  font-size: 20px;
-  color: red;
-} */
